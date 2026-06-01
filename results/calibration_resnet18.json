@@ -1,0 +1,5 @@
+{
+  "backbone": "resnet18",
+  "temperature": 0.5813208222389221,
+  "val_size": 170
+}

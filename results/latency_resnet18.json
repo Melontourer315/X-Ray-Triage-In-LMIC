@@ -1,0 +1,7 @@
+{
+  "backbone": "resnet18",
+  "cpu_latency_ms_mean": 30.263766000862233,
+  "cpu_latency_ms_std": 3.030578445254977,
+  "cpu_latency_ms_median": 29.893199985963292,
+  "onnx": "C:\\Users\\ismailukman\\Downloads\\ResearchPapers\\Tuberclusis_Diag_Main\\experiments\\checkpoints\\resnet18.onnx"
+}

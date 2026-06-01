@@ -1,0 +1,19 @@
+{
+  "accuracy": 0.53,
+  "auroc": 0.774688,
+  "sens_at_90_spec": 0.54,
+  "confusion_matrix": [
+    [
+      500,
+      0
+    ],
+    [
+      470,
+      30
+    ]
+  ],
+  "ece": 0.4192550110220909,
+  "n": 1000,
+  "cohort": "tbx11k",
+  "pretty": "TBX11K (China)"
+}

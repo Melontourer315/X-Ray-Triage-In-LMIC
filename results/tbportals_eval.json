@@ -1,0 +1,94 @@
+{
+  "backbone": "resnet18",
+  "temperature": 0.5813208222389221,
+  "tau_id_at_90spec": 0.14287546277046204,
+  "n_total_decoded": 2801,
+  "n_total_attempted": 2801,
+  "sens_overall": 0.8582649053909318,
+  "sens_ssa_subset": {
+    "n": 43,
+    "sens": 0.4418604651162791
+  },
+  "by_country": [
+    {
+      "country": "Ukraine",
+      "n": 990,
+      "sens_at_tau_id": 0.8818,
+      "mean_p_tb": 0.7691
+    },
+    {
+      "country": "Georgia",
+      "n": 573,
+      "sens_at_tau_id": 0.7958,
+      "mean_p_tb": 0.5937
+    },
+    {
+      "country": "Kazakhstan",
+      "n": 448,
+      "sens_at_tau_id": 0.904,
+      "mean_p_tb": 0.7672
+    },
+    {
+      "country": "Belarus",
+      "n": 445,
+      "sens_at_tau_id": 0.8831,
+      "mean_p_tb": 0.6111
+    },
+    {
+      "country": "Romania",
+      "n": 131,
+      "sens_at_tau_id": 0.8931,
+      "mean_p_tb": 0.7142
+    },
+    {
+      "country": "Kyrgyzstan",
+      "n": 92,
+      "sens_at_tau_id": 0.9022,
+      "mean_p_tb": 0.7164
+    },
+    {
+      "country": "Azerbaijan",
+      "n": 39,
+      "sens_at_tau_id": 0.9744,
+      "mean_p_tb": 0.9056
+    },
+    {
+      "country": "Moldova",
+      "n": 32,
+      "sens_at_tau_id": 0.5625,
+      "mean_p_tb": 0.3149
+    },
+    {
+      "country": "Nigeria",
+      "n": 20,
+      "sens_at_tau_id": 0.75,
+      "mean_p_tb": 0.556
+    },
+    {
+      "country": "South Africa",
+      "n": 20,
+      "sens_at_tau_id": 0.15,
+      "mean_p_tb": 0.0812
+    },
+    {
+      "country": "India",
+      "n": 8,
+      "sens_at_tau_id": 0.25,
+      "mean_p_tb": 0.1375
+    },
+    {
+      "country": "Senegal",
+      "n": 3,
+      "sens_at_tau_id": 0.3333,
+      "mean_p_tb": 0.2982
+    }
+  ],
+  "synthetic_ood": {
+    "n_pos": 2801,
+    "n_neg": 100,
+    "accuracy": 0.7249224405377456,
+    "auroc": 0.9851624419850054,
+    "sens_at_90_spec": 0.9682256337022492,
+    "ece": 0.1538575829534192
+  }
+}

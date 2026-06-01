@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Datasets and trained artefacts (large; reproducible)
+data/
+checkpoints/
+*.pt
+*.onnx
+
+# Generated figures and logs
+figures/
+logs/
+*.log
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
